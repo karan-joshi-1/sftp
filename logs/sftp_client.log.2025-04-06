@@ -1,0 +1,140 @@
+2025-04-06 20:01:02,202 - INFO - Created directory: ./dtmp/
+2025-04-06 20:01:02,202 - INFO - Created directory: ./utmp/
+2025-04-06 20:01:02,202 - INFO - Created directory: ./share/
+2025-04-06 20:01:02,205 - INFO - Starting Local SFTP Client on port 8000
+2025-04-06 20:02:27,573 - INFO - SSH connection established to 10.220.115.68:22 as karan-connect
+2025-04-06 20:02:27,573 - INFO - SSH connection established to 10.220.115.68:22 as karan-connect
+2025-04-06 20:02:27,573 - INFO - Added new client: 10.220.115.68karan-connect
+2025-04-06 20:02:27,573 - INFO - Added new client: 10.220.115.68karan-connect
+2025-04-06 20:02:27,574 - INFO - Successful login: karan-connect@10.220.115.68
+2025-04-06 20:02:27,574 - INFO - Successful login: karan-connect@10.220.115.68
+2025-04-06 20:02:27,607 - INFO - Listed 19 files in /
+2025-04-06 20:02:27,607 - INFO - Listed 19 files in /
+2025-04-06 20:02:27,620 - INFO - Getting disk usage for 10.220.115.68
+2025-04-06 20:02:27,620 - INFO - Getting disk usage for 10.220.115.68
+2025-04-06 20:02:29,324 - INFO - Retrieved disk usage information for 10.220.115.68
+2025-04-06 20:02:29,324 - INFO - Retrieved disk usage information for 10.220.115.68
+2025-04-06 20:03:23,439 - INFO - Listed 5 files in /home
+2025-04-06 20:03:23,439 - INFO - Listed 5 files in /home
+2025-04-06 20:03:28,239 - ERROR - Error listing files in /home/matthew-connect: [Errno 13] Permission denied
+2025-04-06 20:03:28,239 - ERROR - Error listing files in /home/matthew-connect: [Errno 13] Permission denied
+2025-04-06 20:03:28,239 - ERROR - Error listing files in /home/matthew-connect: [Errno 13] Permission denied
+2025-04-06 20:03:28,239 - ERROR - Error listing files in /home/matthew-connect: [Errno 13] Permission denied
+2025-04-06 20:21:41,007 - INFO - Starting Local SFTP Client on port 8000
+2025-04-06 20:32:52,607 - INFO - Starting Local SFTP Client on port 8000
+2025-04-06 20:33:14,347 - INFO - SSH connection established to 10.220.115.68:22 as karan-connect
+2025-04-06 20:33:14,347 - INFO - SSH connection established to 10.220.115.68:22 as karan-connect
+2025-04-06 20:33:14,348 - INFO - Added new client: 10.220.115.68karan-connect
+2025-04-06 20:33:14,348 - INFO - Added new client: 10.220.115.68karan-connect
+2025-04-06 20:33:14,349 - INFO - Successful login: karan-connect@10.220.115.68
+2025-04-06 20:33:14,349 - INFO - Successful login: karan-connect@10.220.115.68
+2025-04-06 20:33:14,396 - INFO - Listed 19 files in /
+2025-04-06 20:33:14,396 - INFO - Listed 19 files in /
+2025-04-06 20:33:14,404 - INFO - Getting disk usage for 10.220.115.68
+2025-04-06 20:33:14,404 - INFO - Getting disk usage for 10.220.115.68
+2025-04-06 20:33:16,102 - INFO - Retrieved disk usage information for 10.220.115.68
+2025-04-06 20:33:16,102 - INFO - Retrieved disk usage information for 10.220.115.68
+2025-04-06 20:33:22,045 - INFO - Listed 50 files in /run
+2025-04-06 20:33:22,045 - INFO - Listed 50 files in /run
+2025-04-06 20:33:24,070 - INFO - Listed 0 files in /run/media
+2025-04-06 20:33:24,070 - INFO - Listed 0 files in /run/media
+2025-04-06 20:33:28,046 - INFO - Listed 50 files in /run
+2025-04-06 20:33:28,046 - INFO - Listed 50 files in /run
+2025-04-06 20:33:28,576 - INFO - Listed 19 files in /
+2025-04-06 20:33:28,576 - INFO - Listed 19 files in /
+2025-04-06 20:33:30,585 - INFO - Listed 142 files in /dev
+2025-04-06 20:33:30,585 - INFO - Listed 142 files in /dev
+2025-04-06 20:33:32,020 - INFO - Listed 19 files in /
+2025-04-06 20:33:32,020 - INFO - Listed 19 files in /
+2025-04-06 20:33:38,400 - INFO - Listed 22 files in /var
+2025-04-06 20:33:38,400 - INFO - Listed 22 files in /var
+2025-04-06 20:33:38,565 - INFO - Listed 0 files in /var/crash
+2025-04-06 20:33:38,565 - INFO - Listed 0 files in /var/crash
+2025-04-06 20:33:40,708 - INFO - Listed 22 files in /var
+2025-04-06 20:33:40,708 - INFO - Listed 22 files in /var
+2025-04-06 20:33:42,789 - INFO - Listed 19 files in /
+2025-04-06 20:33:42,789 - INFO - Listed 19 files in /
+2025-04-06 20:33:44,166 - INFO - Listed 218 files in /etc
+2025-04-06 20:33:44,166 - INFO - Listed 218 files in /etc
+2025-04-06 20:34:02,052 - INFO - Listed 5 files in /etc/crypto-policies
+2025-04-06 20:34:02,052 - INFO - Listed 5 files in /etc/crypto-policies
+2025-04-06 20:34:04,898 - INFO - Listed 12 files in /etc/crypto-policies/back-ends
+2025-04-06 20:34:04,898 - INFO - Listed 12 files in /etc/crypto-policies/back-ends
+2025-04-06 20:34:06,724 - INFO - Listed 5 files in /etc/crypto-policies
+2025-04-06 20:34:06,724 - INFO - Listed 5 files in /etc/crypto-policies
+2025-04-06 20:34:06,922 - INFO - Listed 218 files in /etc
+2025-04-06 20:34:06,922 - INFO - Listed 218 files in /etc
+2025-04-06 20:34:07,062 - INFO - Listed 19 files in /
+2025-04-06 20:34:07,062 - INFO - Listed 19 files in /
+2025-04-06 20:34:09,298 - INFO - Listed 5 files in /home
+2025-04-06 20:34:09,298 - INFO - Listed 5 files in /home
+2025-04-06 20:34:11,544 - ERROR - Permission denied accessing directory: /home/mhamilton
+2025-04-06 20:34:11,544 - ERROR - Permission denied accessing directory: /home/mhamilton
+2025-04-06 20:34:11,544 - ERROR - Permission denied accessing /home/mhamilton
+2025-04-06 20:34:11,544 - ERROR - Permission denied accessing /home/mhamilton
+2025-04-06 20:34:16,817 - INFO - Listed 5 files in /home
+2025-04-06 20:34:16,817 - INFO - Listed 5 files in /home
+2025-04-06 20:34:18,789 - ERROR - Permission denied accessing directory: /home/cloud-user
+2025-04-06 20:34:18,789 - ERROR - Permission denied accessing directory: /home/cloud-user
+2025-04-06 20:34:18,789 - ERROR - Permission denied accessing /home/cloud-user
+2025-04-06 20:34:18,789 - ERROR - Permission denied accessing /home/cloud-user
+2025-04-06 20:34:20,200 - INFO - Listed 5 files in /home
+2025-04-06 20:34:20,200 - INFO - Listed 5 files in /home
+2025-04-06 20:34:21,095 - INFO - Listed 22 files in /home/karan-connect
+2025-04-06 20:34:21,095 - INFO - Listed 22 files in /home/karan-connect
+2025-04-06 20:34:28,339 - INFO - Listed 1 files in /home/karan-connect/scripts
+2025-04-06 20:34:28,339 - INFO - Listed 1 files in /home/karan-connect/scripts
+2025-04-06 20:34:38,236 - INFO - Listed 22 files in /home/karan-connect
+2025-04-06 20:34:38,236 - INFO - Listed 22 files in /home/karan-connect
+2025-04-06 20:34:38,916 - INFO - Listed 5 files in /home
+2025-04-06 20:34:38,916 - INFO - Listed 5 files in /home
+2025-04-06 20:35:39,896 - INFO - SSH connection established to 10.250.0.22:22 as kjoshi
+2025-04-06 20:35:39,896 - INFO - SSH connection established to 10.250.0.22:22 as kjoshi
+2025-04-06 20:35:39,896 - INFO - Added new client: 10.250.0.22kjoshi
+2025-04-06 20:35:39,896 - INFO - Added new client: 10.250.0.22kjoshi
+2025-04-06 20:35:39,897 - INFO - Successful login: kjoshi@10.250.0.22
+2025-04-06 20:35:39,897 - INFO - Successful login: kjoshi@10.250.0.22
+2025-04-06 20:35:39,977 - INFO - Listed 30 files in /
+2025-04-06 20:35:39,977 - INFO - Listed 30 files in /
+2025-04-06 20:35:39,984 - INFO - Getting disk usage for 10.250.0.22
+2025-04-06 20:35:39,984 - INFO - Getting disk usage for 10.250.0.22
+2025-04-06 20:35:40,532 - INFO - Retrieved disk usage information for 10.250.0.22
+2025-04-06 20:35:40,532 - INFO - Retrieved disk usage information for 10.250.0.22
+2025-04-06 20:35:56,987 - INFO - Listed 88 files in /admin
+2025-04-06 20:35:56,987 - INFO - Listed 88 files in /admin
+2025-04-06 20:36:02,738 - INFO - Listed 30 files in /
+2025-04-06 20:36:02,738 - INFO - Listed 30 files in /
+2025-04-06 20:36:07,604 - INFO - Listed 13 files in /usr
+2025-04-06 20:36:07,604 - INFO - Listed 13 files in /usr
+2025-04-06 20:36:13,307 - INFO - Listed 30 files in /
+2025-04-06 20:36:13,307 - INFO - Listed 30 files in /
+2025-04-06 20:36:17,418 - INFO - Listed 1 files in /local-home
+2025-04-06 20:36:17,418 - INFO - Listed 1 files in /local-home
+2025-04-06 20:36:18,891 - ERROR - Permission denied accessing directory: /local-home/lsfadmin
+2025-04-06 20:36:18,891 - ERROR - Permission denied accessing directory: /local-home/lsfadmin
+2025-04-06 20:36:18,891 - ERROR - Permission denied accessing /local-home/lsfadmin
+2025-04-06 20:36:18,891 - ERROR - Permission denied accessing /local-home/lsfadmin
+2025-04-06 20:36:20,216 - INFO - Listed 1 files in /local-home
+2025-04-06 20:36:20,216 - INFO - Listed 1 files in /local-home
+2025-04-06 20:36:20,761 - INFO - Listed 30 files in /
+2025-04-06 20:36:20,761 - INFO - Listed 30 files in /
+2025-04-06 20:36:26,441 - INFO - Listed 11 files in /research
+2025-04-06 20:36:26,441 - INFO - Listed 11 files in /research
+2025-04-06 20:36:31,193 - INFO - Listed 127 files in /research/project
+2025-04-06 20:36:31,193 - INFO - Listed 127 files in /research/project
+2025-04-06 20:36:37,553 - INFO - Listed 11 files in /research
+2025-04-06 20:36:37,553 - INFO - Listed 11 files in /research
+2025-04-06 20:36:38,113 - INFO - Listed 30 files in /
+2025-04-06 20:36:38,113 - INFO - Listed 30 files in /
+2025-04-06 20:36:45,303 - INFO - Listed 13 files in /usr
+2025-04-06 20:36:45,303 - INFO - Listed 13 files in /usr
+2025-04-06 20:36:48,657 - INFO - Listed 12 files in /usr/local
+2025-04-06 20:36:48,657 - INFO - Listed 12 files in /usr/local
+2025-04-06 20:36:51,707 - INFO - Listed 13 files in /usr
+2025-04-06 20:36:51,707 - INFO - Listed 13 files in /usr
+2025-04-06 20:36:52,180 - INFO - Listed 30 files in /
+2025-04-06 20:36:52,180 - INFO - Listed 30 files in /
+2025-04-06 20:37:02,427 - INFO - Listed 0 files in /lab
+2025-04-06 20:37:02,427 - INFO - Listed 0 files in /lab
+2025-04-06 20:37:03,736 - INFO - Listed 30 files in /
+2025-04-06 20:37:03,736 - INFO - Listed 30 files in /

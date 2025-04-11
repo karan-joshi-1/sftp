@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local SFTP Client</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="/static/css/styles.css">
+    <link rel="icon" href="/static/img/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <!-- Header -->
+            <div class="card-header">
+                <h1 class="card-title">VAC SFTP PORTAL</h1>
+                <div id="connectionStatus" class="connection-status">
+                    <i class="fas fa-times-circle"></i>
+                    <span>Not connected</span>
+                </div>
+            </div>
+            
+            <div class="card-body">
+                <!-- Connection Form -->
+                <div class="connection-form">
+                    <div class="form-group">
+                        <label for="hostIp" class="form-label">Host Address</label>
+                        <input type="text" id="hostIp" class="form-input" placeholder="hostname or IP (e.g., 192.168.1.1:22)" />
+                    </div>
+                    <div class="form-group">
+                        <label for="username" class="form-label">Username</label>
+                        <input type="text" id="username" class="form-input" placeholder="Username" />
+                    </div>
+                    <div class="form-group">
+                        <label for="password" class="form-label">Password</label>
+                        <input type="password" id="password" class="form-input" placeholder="Password" />
+                    </div>
+                    <div class="form-group" style="justify-content: flex-end;">
+                        <button id="connectBtn" class="btn btn-primary">
+                            <div class="loader" style="display: none;"></div>
+                            <span>
+                                <i class="fas fa-plug"></i>
+                                Connect
+                            </span>
+                        </button>
+                    </div>
+                </div>
+                
+                <div class="filesystem-section">
+                    <div class="filesystem-header">
+                        <div class="path-display" id="currentPath">/</div>
+                        <div class="action-buttons">
+                            <button id="upDirBtn" class="btn btn-secondary">
+                                <div class="loader" style="display: none;"></div>
+                                <span>
+                                    <i class="fas fa-arrow-up"></i>
+                                    Up
+                                </span>
+                            </button>
+                            <button id="newFolderBtn" class="btn btn-secondary">
+                                <div class="loader" style="display: none;"></div>
+                                <span>
+                                    <i class="fas fa-folder-plus"></i>
+                                    New Folder
+                                </span>
+                            </button>
+                            <button id="refreshBtn" class="btn btn-secondary">
+                                <div class="loader" style="display: none;"></div>
+                                <span>
+                                    <i class="fas fa-sync-alt"></i>
+                                    Refresh
+                                </span>
+                            </button>
+                        </div>
+                    </div>
+                    
+                    <div class="directory-info">
+                        <i class="fas fa-info-circle"></i>
+                        <span id="dirStats">Connect to a server to browse files</span>
+                    </div>
+                    
+                    <div class="file-explorer">
+                        <div class="file-list" id="fileList">
+                            <div class="file-item">
+                                <div class="file-info">
+                                    <i class="fas fa-server file-icon"></i>
+                                    <span class="file-name">Connect to a server to view files</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="upload-section">
+                    <h2 class="section-title">Upload File</h2>
+                    <form id="uploadForm" class="upload-form">
+                        <div class="upload-input-wrapper">
+                            <input type="file" id="fileUpload" class="upload-input" />
+                        </div>
+                        <button type="submit" class="btn btn-success" id="uploadBtn">
+                            <div class="loader" style="display: none;"></div>
+                            <span>
+                                <i class="fas fa-upload"></i>
+                                Upload
+                            </span>
+                        </button>
+                    </form>
+                </div>
+                
+                <div class="status-section">
+                    <h2 class="section-title">Status Log</h2>
+                    <div class="status-area" id="statusArea">
+                        <p>Ready to connect. Please enter server details and connect.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <footer class="footer">
+            <p>&copy; 2023 Local SFTP Client. All rights reserved.</p>
+        </footer>
+    </div>
+
+    <!-- Load JavaScript modules -->
+    <script src="/static/js/utils.js"></script>
+    <script src="/static/js/api.js"></script>
+    <script src="/static/js/ui.js"></script>
+    <script src="/static/js/app.js"></script>
+</body>
+</html>

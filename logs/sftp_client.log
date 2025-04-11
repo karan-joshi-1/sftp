@@ -1,0 +1,48 @@
+2025-04-08 12:35:48,342 - INFO - Starting Local SFTP Client on port 8000
+2025-04-08 12:51:00,288 - INFO - Starting Local SFTP Client on port 8000
+2025-04-08 13:00:08,663 - INFO - SSH connection established to 10.220.120.17:22 as karan-connect
+2025-04-08 13:00:08,663 - INFO - SSH connection established to 10.220.120.17:22 as karan-connect
+2025-04-08 13:00:08,665 - INFO - Added new client: 10.220.120.17karan-connect
+2025-04-08 13:00:08,665 - INFO - Added new client: 10.220.120.17karan-connect
+2025-04-08 13:00:08,665 - INFO - Successful login: karan-connect@10.220.120.17
+2025-04-08 13:00:08,665 - INFO - Successful login: karan-connect@10.220.120.17
+2025-04-08 13:00:08,822 - INFO - Listed 19 files in /
+2025-04-08 13:00:08,822 - INFO - Listed 19 files in /
+2025-04-08 13:00:08,966 - INFO - Getting disk usage for 10.220.120.17
+2025-04-08 13:00:08,966 - INFO - Getting disk usage for 10.220.120.17
+2025-04-08 13:00:10,361 - INFO - Retrieved disk usage information for 10.220.120.17
+2025-04-08 13:00:10,361 - INFO - Retrieved disk usage information for 10.220.120.17
+2025-04-08 13:13:42,408 - ERROR - Failed to create client: [Errno 8] nodename nor servname provided, or not known
+2025-04-08 13:13:42,408 - ERROR - Failed to create client: [Errno 8] nodename nor servname provided, or not known
+2025-04-08 13:13:42,409 - ERROR - Login failed for mhamilton@10.250.0.22 : [Errno 8] nodename nor servname provided, or not known
+2025-04-08 13:13:42,409 - ERROR - Login failed for mhamilton@10.250.0.22 : [Errno 8] nodename nor servname provided, or not known
+2025-04-08 13:13:42,409 - INFO - SSH connection closed for 10.250.0.22 :22
+2025-04-08 13:13:42,409 - INFO - SSH connection closed for 10.250.0.22 :22
+2025-04-08 13:13:56,999 - ERROR - Failed to create client: [Errno 8] nodename nor servname provided, or not known
+2025-04-08 13:13:56,999 - ERROR - Failed to create client: [Errno 8] nodename nor servname provided, or not known
+2025-04-08 13:13:57,000 - ERROR - Login failed for mhamilton@10.250.0.22 : [Errno 8] nodename nor servname provided, or not known
+2025-04-08 13:13:57,000 - ERROR - Login failed for mhamilton@10.250.0.22 : [Errno 8] nodename nor servname provided, or not known
+2025-04-08 13:13:57,000 - INFO - SSH connection closed for 10.250.0.22 :22
+2025-04-08 13:13:57,000 - INFO - SSH connection closed for 10.250.0.22 :22
+2025-04-08 13:15:02,465 - INFO - SSH connection established to garfield.cs.mun.ca:22 as mhamilton
+2025-04-08 13:15:02,465 - INFO - SSH connection established to garfield.cs.mun.ca:22 as mhamilton
+2025-04-08 13:15:02,467 - INFO - Added new client: garfield.cs.mun.camhamilton
+2025-04-08 13:15:02,467 - INFO - Added new client: garfield.cs.mun.camhamilton
+2025-04-08 13:15:02,467 - INFO - Successful login: mhamilton@garfield.cs.mun.ca
+2025-04-08 13:15:02,467 - INFO - Successful login: mhamilton@garfield.cs.mun.ca
+2025-04-08 13:15:02,625 - INFO - Listed 30 files in /
+2025-04-08 13:15:02,625 - INFO - Listed 30 files in /
+2025-04-08 13:15:02,766 - INFO - Getting disk usage for garfield.cs.mun.ca
+2025-04-08 13:15:02,766 - INFO - Getting disk usage for garfield.cs.mun.ca
+2025-04-08 13:15:03,342 - INFO - Retrieved disk usage information for garfield.cs.mun.ca
+2025-04-08 13:15:03,342 - INFO - Retrieved disk usage information for garfield.cs.mun.ca
+2025-04-08 13:15:31,726 - INFO - Uploading ./utmp/_DSC4177.NEF to //_DSC4177.NEF
+2025-04-08 13:15:31,726 - INFO - Uploading ./utmp/_DSC4177.NEF to //_DSC4177.NEF
+2025-04-08 13:15:31,735 - ERROR - Error uploading file: [Errno 13] Permission denied
+2025-04-08 13:15:31,735 - ERROR - Error uploading file: [Errno 13] Permission denied
+2025-04-08 13:15:31,735 - ERROR - Failed to upload _DSC4177.NEF to //_DSC4177.NEF
+2025-04-08 13:15:31,735 - ERROR - Failed to upload _DSC4177.NEF to //_DSC4177.NEF
+2025-04-08 13:15:36,718 - INFO - Listed 3 files in /home
+2025-04-08 13:15:36,718 - INFO - Listed 3 files in /home
+2025-04-08 13:15:42,952 - INFO - Listed 3 files in /home
+2025-04-08 13:15:42,952 - INFO - Listed 3 files in /home
